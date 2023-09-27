@@ -1,6 +1,6 @@
 # Tic tac toe endgame
 
-For this assignment, we will be using the Tic-Tac-Toe Endgame dataset located in the Irvine’s Machine Learning Repository located at:
+We will be using the Tic-Tac-Toe Endgame dataset located in the Irvine’s Machine Learning Repository located at:
 https://archive.ics.uci.edu/ml/index.php<br>
 https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame <br>
 <br>
@@ -22,4 +22,3 @@ Each attribute can take on one of three values:<br>
 2.	o	Player O has claimed that square.<br>
 3.	b	No player has claimed that square. It is blank.<br>
 
-You are tasked with implementing the ID3 algorithm to create a decision tree to distinguish between the winning and losing Tic-Tac-Toe boards for the player X. Your program must additionally output the resulting decision tree in some meaningful and easy to discern way so that it can be seen and evaluated. This does not have to be graphical, but it must be understandable.
